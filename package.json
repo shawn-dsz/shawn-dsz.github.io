@@ -1,0 +1,19 @@
+{
+  "name": "shawn-dsz.github.io",
+  "version": "0.0.1",
+  "description": "my site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawn-dsz/shawn-dsz.github.io.git"
+  },
+  "author": "shawn-dsz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawn-dsz/shawn-dsz.github.io/issues"
+  },
+  "homepage": "https://github.com/shawn-dsz/shawn-dsz.github.io#readme"
+}
