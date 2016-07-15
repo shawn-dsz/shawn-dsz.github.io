@@ -1,3 +1,5 @@
-const foo = 'shawn'
+import App from './app/app.js'
+import ReactDOM from 'react-dom'
+import React from 'react'
 
-console.log(`hi ${foo}`)
+ReactDOM.render(<App/>, document.getElementById('app'))
