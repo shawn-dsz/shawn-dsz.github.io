@@ -1,7 +1,3 @@
-// var path = require('path')
-// var webpack = require('webpack')
-/* global module, __dirname */
-
 module.exports = {
   entry: './src/index.js',
   output: {
